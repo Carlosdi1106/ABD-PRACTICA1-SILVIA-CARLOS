@@ -1,0 +1,1 @@
+mysqldump -u root -padmin abd > "C:\Program Files\MariaDB 10.6\mi_respaldo.sql" 
